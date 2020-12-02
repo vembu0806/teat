@@ -14,5 +14,3 @@ resource "azurerm_resource_group" "test" {
 }
 
 Branch A- Commit2
-
-Branch beta - commit3
